@@ -1,2 +1,5 @@
 # Golang_Scripting
-Golang Basic Programming
+
+Coming Soon
+
+#Keep Coding, Stay Awesome !
